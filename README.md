@@ -7,3 +7,7 @@
 ээ ну кароче когда нибудь они додумаются сделать нормальный обход эщкере
 
 Либы которые нужны ctk, pymem, threading, watchdog, subprocess файл рекуирментс мне лень делать сами скачаете
+
+Скачать - https://github.com/spacecollapse/Rust/releases/download/rust/eacbypass.exe
+
+Download (english interface)  - https://github.com/spacecollapse/Rust/releases/download/rust/eacbypassen.exe
