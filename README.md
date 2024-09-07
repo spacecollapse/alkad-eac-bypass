@@ -13,7 +13,7 @@ If you don't speak Russian, use a translator
 
 Скачать/Download V2556 WORK - https://github.com/spacecollapse/alkad-eac-bypass/releases/download/rust/EacBypassGLOBAL.exe
 
-(хэш f62a0a3418e943844f2824c3607f23a55a2e128fa194faddcd5ccfa8c1665da5)
+(хэш оригинального файла f62a0a3418e943844f2824c3607f23a55a2e128fa194faddcd5ccfa8c1665da5)
 # Создатель 
 
 Сервер - https://discord.gg/tYpSxkRzbD
