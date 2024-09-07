@@ -11,6 +11,8 @@ If you don't speak Russian, use a translator
 
 Скрипт запоминает выбранную вами папку с растом, если неправильно указали нажмите на сбросить настройки
 
+**Если с первого раза раст не запустился без еака, попробуйте еще раз, 100% запустится**
+
 Скачать/Download V2556 WORK - https://github.com/spacecollapse/alkad-eac-bypass/releases/download/rust/EacBypassGLOBAL.exe
 
 (хэш оригинального файла e2cddd4ae53251b4ae8b6c1473575af867815aecd845f82a63e33703e188043d)
