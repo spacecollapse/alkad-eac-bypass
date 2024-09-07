@@ -3,8 +3,7 @@ If you don't speak Russian, use a translator
 
 ![image](https://github.com/user-attachments/assets/39d7cd6f-e61a-433a-93f0-a4db324ef208)
 
-
-If you don't speak Russian, use a translator
+**При запуске программы, эта страница откроется 1 раз**
 
 Скачиваете прогу, "**лучше запустить от имени администратора**". Потом нажимаем "включить обход" выбираем папку с "Rust"  Если раст не открылся жмем "Открыть Rust" Нажимаем "Выбрать dll для инжекта" выбираем чит и инжектим, если не инжектится через кнопку **инжектим через ExtremeInjector**
 
