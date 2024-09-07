@@ -17,7 +17,9 @@ If you don't speak Russian, use a translator
 # Создатель 
 
 Сервер - https://discord.gg/tYpSxkRzbD
+
 ![image](https://github.com/user-attachments/assets/fc459858-da38-4a78-b2dc-5eae4a2b3c93)
+
 ник usehvh
 
 
