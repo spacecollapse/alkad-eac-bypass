@@ -1,4 +1,4 @@
-# alkad eac bypass
+# alkad eac bypass гайд
 If you don't speak Russian, use a translator
 
 ![image](https://github.com/user-attachments/assets/39d7cd6f-e61a-433a-93f0-a4db324ef208)
