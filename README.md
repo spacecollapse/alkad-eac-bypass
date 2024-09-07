@@ -11,7 +11,7 @@ If you don't speak Russian, use a translator
 
 Скрипт запоминает выбранную вами папку с растом, если неправильно указали нажмите на сбросить настройки
 
-Скачать/Download - не обновлен
+Скачать/Download V2556 WORK - https://github.com/spacecollapse/alkad-eac-bypass/releases/download/rust/EacBypassGLOBAL.exe
 
 # Создатель 
 
@@ -21,6 +21,7 @@ If you don't speak Russian, use a translator
 
 ник usehvh
 
+# Реклама
 
 
 
