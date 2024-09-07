@@ -1,6 +1,8 @@
 # alkad eac bypass 2555
+If you don't speak Russian, use a translator
 
-![image](https://github.com/user-attachments/assets/9d9a6716-1e51-40c0-a8d2-6bf834466bde)
+![image](https://github.com/user-attachments/assets/39d7cd6f-e61a-433a-93f0-a4db324ef208)
+
 
 If you don't speak Russian, use a translator
 
@@ -10,6 +12,14 @@ If you don't speak Russian, use a translator
 
 Скрипт запоминает выбранную вами папку с растом, если неправильно указали нажмите на сбросить настройки
 
-
 Скачать/Download - не обновлен
+
+# Создатель 
+
+Сервер - https://discord.gg/tYpSxkRzbD
+![image](https://github.com/user-attachments/assets/fc459858-da38-4a78-b2dc-5eae4a2b3c93)
+ник usehvh
+
+
+
 
