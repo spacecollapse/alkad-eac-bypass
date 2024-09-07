@@ -21,7 +21,6 @@ If you don't speak Russian, use a translator
 
 ник usehvh
 
-# Реклама
 
 
 
