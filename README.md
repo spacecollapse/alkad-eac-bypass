@@ -18,7 +18,7 @@ If you don't speak Russian, use a translator
 хэш оригинального файла с обходом (e2cddd4ae53251b4ae8b6c1473575af867815aecd845f82a63e33703e188043d)
 
 
-**Купить рекламу в обходе** [GitHub](https://github.com/spacecollapse/alkad-eac-bypass#%D1%80%D0%B5%D0%BA%D0%BB%D0%B0%D0%BC%D0%B0)
+**Купить рекламу в обходе** [Click](https://github.com/spacecollapse/alkad-eac-bypass#%D1%80%D0%B5%D0%BA%D0%BB%D0%B0%D0%BC%D0%B0)
 # Создатель 
 
 Сервер - https://discord.gg/tYpSxkRzbD
