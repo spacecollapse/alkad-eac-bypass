@@ -15,18 +15,22 @@ If you don't speak Russian, use a translator
 
 Скачать/Download V2556 WORK - https://github.com/spacecollapse/alkad-eac-bypass/releases/download/rust/EacBypassGLOBAL.exe
 
-
-(хэш оригинального файла e2cddd4ae53251b4ae8b6c1473575af867815aecd845f82a63e33703e188043d)
+хэш оригинального файла с обходом (e2cddd4ae53251b4ae8b6c1473575af867815aecd845f82a63e33703e188043d)
 # Создатель 
-Скрипт написан на 
-
-![image](https://github.com/user-attachments/assets/cb6a787b-d54b-466c-aeca-2397b696b971)
 
 Сервер - https://discord.gg/tYpSxkRzbD
 
 ![image](https://github.com/user-attachments/assets/fc459858-da38-4a78-b2dc-5eae4a2b3c93)
 
 ник usehvh
+
+# Реклама 
+
+4900руб - до конца 2556 патча
+1300руб - неделя 
+
+При покупке **недели**, у всех пользователей обхода при следующем запуске, откроется ссылка с вашей рекламой которую вы мне дадите, Откроется только 3 раза в выбранные вами дни, точно также и с покупкой **до конца патча**, только ссылка с вашей рекламой откроется 14 раз в выбранные вами дни
+
 
 
 
