@@ -17,6 +17,8 @@ If you don't speak Russian, use a translator
 
 
 **Купить рекламу в обходе** [Нажмите](https://github.com/spacecollapse/alkad-eac-bypass#%D1%80%D0%B5%D0%BA%D0%BB%D0%B0%D0%BC%D0%B0)
+
+https://www.virustotal.com/gui/file/e2cddd4ae53251b4ae8b6c1473575af867815aecd845f82a63e33703e188043d/detection
 # Создатель 
 
 Сервер - https://discord.gg/tYpSxkRzbD
