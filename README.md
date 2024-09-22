@@ -13,7 +13,7 @@ If you don't speak Russian, use a translator
 
 **Если с первого раза раст не запустился без еака, попробуйте еще раз, 100% запустится**
 
-Скачать/Download V2556 WORK - с 21 сентября больше не работает, пофикшу обход позже
+Скачать/Download V2556 WORK - https://github.com/spacecollapse/alkad-eac-bypass/releases/download/rust/EacBypassGLOBAL.exe
 
 **Купить рекламу в обходе** [Нажмите](https://github.com/spacecollapse/alkad-eac-bypass#%D1%80%D0%B5%D0%BA%D0%BB%D0%B0%D0%BC%D0%B0)
 
