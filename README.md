@@ -15,7 +15,6 @@ If you don't speak Russian, use a translator
 
 Скачать/Download V2556 WORK - https://github.com/spacecollapse/alkad-eac-bypass/releases/download/rust/EacBypassGLOBAL.exe
 
-**Купить рекламу в обходе** [Нажмите](https://github.com/spacecollapse/alkad-eac-bypass#%D1%80%D0%B5%D0%BA%D0%BB%D0%B0%D0%BC%D0%B0)
 
 https://www.virustotal.com/gui/file/e2cddd4ae53251b4ae8b6c1473575af867815aecd845f82a63e33703e188043d/detection
 # Создатель 
@@ -25,23 +24,3 @@ https://www.virustotal.com/gui/file/e2cddd4ae53251b4ae8b6c1473575af867815aecd845
 ![image](https://github.com/user-attachments/assets/fc459858-da38-4a78-b2dc-5eae4a2b3c93)
 
 ник usehvh
-
-# Реклама 
-
-4900руб - до конца 2556 патча 
-
-1300руб - неделя 
-
-При покупке **недели**, у всех пользователей обхода при следующем запуске, откроется ссылка с вашей рекламой которую вы мне дадите, Откроется только 3 раза в выбранные вами дни, точно также и с покупкой **до конца патча**, только ссылка с вашей рекламой откроется 13 раз в выбранные вами дни
-
-Я не гарантирую что обход будет работать если раст обновят, обход работает прямо сейчас
-
-Не рекламлю скам, запрещённый контент
-
-
-Писать либо в тг https//t.me/usehvh
-либо в дискорде
-
-
-
-
