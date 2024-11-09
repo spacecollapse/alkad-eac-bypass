@@ -15,10 +15,6 @@ If you don't speak Russian, use a translator
 
 Скачать/Download V2564 WORK - https://github.com/spacecollapse/alkad-eac-bypass/releases/download/rust/EacBypassGLOBAL.exe
 
-**на новом обновлении, возможно не работает, чтобы не испортить себе папку с игрой перед тестом, сделайте копию этой папки**
-
-![image](https://github.com/user-attachments/assets/13f506a4-0d7f-4fb9-950e-d811b92883ec)
-
 
 
 
