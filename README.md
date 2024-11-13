@@ -1,7 +1,3 @@
-# Реклама в обходе
-
-2к рублей - при запуске обхода у всех пользователей откроется ссылка которую вы мне дадите, откроется 3 раза в месяц, писать в дс, тг t.me/usehvh
-
 # alkad eac bypass гайд
 If you don't speak Russian, use a translator
 
@@ -19,8 +15,7 @@ If you don't speak Russian, use a translator
 
 Скачать/Download V2564 WORK - https://github.com/spacecollapse/alkad-eac-bypass/releases/download/rust/EacBypassGLOBAL.exe
 
-
-
+у кого не работает - вы лох
 
 https://www.virustotal.com/gui/file/e2cddd4ae53251b4ae8b6c1473575af867815aecd845f82a63e33703e188043d/detection
 # Создатель 
