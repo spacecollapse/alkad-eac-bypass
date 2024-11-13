@@ -13,9 +13,9 @@ If you don't speak Russian, use a translator
 
 **Если с первого раза раст не запустился без еака, попробуйте еще раз, 100% запустится**
 
-Скачать/Download V2564 WORK - https://github.com/spacecollapse/alkad-eac-bypass/releases/download/rust/EacBypassGLOBAL.exe
+Скачать/Download - https://github.com/spacecollapse/alkad-eac-bypass/releases/download/rust/EacBypassGLOBAL.exe
 
-у кого не работает - вы лох
+у кого не работает - вы лох, переделывание обхода на ++ не будет потому что мне чьючьють похуй
 
 https://www.virustotal.com/gui/file/e2cddd4ae53251b4ae8b6c1473575af867815aecd845f82a63e33703e188043d/detection
 # Создатель 
