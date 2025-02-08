@@ -13,7 +13,7 @@ If you don't speak Russian, use a translator
 
 **Если с первого раза раст не запустился без еака, попробуйте еще раз, 100% запустится**
 
-Скачать/Download - https://github.com/spacecollapse/alkad-eac-bypass/releases/download/rust/EacBypassGLOBAL.exe
+Скачать/Download - больше не работает
 
 у кого не работает - вы лох, переделывание обхода на ++ не будет потому что мне чьючьють похуй
 
