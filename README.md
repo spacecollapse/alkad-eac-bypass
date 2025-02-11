@@ -17,7 +17,7 @@
 
 Заходим на https://rusticaland.net/download/, качаем распаковываем
 
-Теперь инжектим чит, можно взять отсюда https://github.com/spacecollapse/cheats
+Теперь запускаем rustclient и инжектим чит, можно взять отсюда https://github.com/spacecollapse/cheats
 
 https://expshop.alkad.org/launcher/ сервера можно брать отсюда
 
