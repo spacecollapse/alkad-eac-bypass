@@ -1,4 +1,31 @@
-# alkad eac bypass гайд
+# Новый 11.02.2024 обход без запуска сторонних файлов
+
+Заходим и качаем любым понравившимся методом https://rusticaland.net/download/
+
+Самый лучший и быстрый метод для скачивания это через GOFILE
+
+Так как он заблочен в РФ заходим в папку с запретом, если вы его используете и открываем этот файл
+![image](https://github.com/user-attachments/assets/c71786ed-1258-4d05-8a02-24c8d72f232a)
+
+добавляем домен gofile.io и сохраняем файл
+
+![image](https://github.com/user-attachments/assets/601c1f42-42a7-4446-8b88-aab58d4a8e13)
+
+Закрываем если он запущен до этого и открываем генерал
+
+![image](https://github.com/user-attachments/assets/1ddaa865-70e5-4445-95f7-a4a2ddc4601a)
+
+Заходим на https://rusticaland.net/download/, качаем распаковываем
+
+Теперь инжектим чит, можно взять отсюда https://github.com/spacecollapse/cheats
+
+https://expshop.alkad.org/launcher/ сервера можно брать отсюда
+
+*на некоторых серверах ошибка "Скачайте или обновите клиент" - это не пофиксить
+
+
+
+# alkad eac bypass гайд УСТАРЕЛ!
 If you don't speak Russian, use a translator
 
 ![image](https://github.com/user-attachments/assets/39d7cd6f-e61a-433a-93f0-a4db324ef208)
